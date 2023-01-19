@@ -1,0 +1,45 @@
+Question.1
+i).Database is a collection of organised related tables.
+
+ii).Database Management system is a software that is used to create databases.
+
+iii).SQL is a structured query language that is used to  manipulate databases.
+
+iv). Foreign key is an attribute or set of attributes that creates a relationship between two or more tables in a database.
+
+v). Primary key is an attribute that uniquely identifies a tuple in a table in a database.
+
+Question.2
+
+Database improves data security due to its constraints that it provides.
+
+Database allows easy accessibility of data even when in large volume by using host and query languages
+
+Database controls data redundancy coz it does not allow duplication.
+
+Database reduces cost of data entry, data storage and data retrieval.
+
+Database provides a higher data integrity from application programs.
+
+Question.3
+
+Oracle Database used in businesses at a large scale for example, Facebook Company.
+
+MySQL Server used in school libraries to store data.
+
+PostgreSql used in government organisations that deal with large volumes of data for example; NIRA-Uganda.
+
+MongoDB used by e-commerce businesses for example; Jumia-Uganda.
+
+MariaDB used by ware-housing businesses to store data.
+
+Question.4
+One to One relationship; 
+It links information between two tables where each tuple in each table only appears once.
+
+One to Many relationship;
+It links information between two tables where each tuple in one table may be linked to one or more tuples in the other table.
+
+Many to Many relationship;
+It links information between two tables where one or many tuples may be linked to one or more tuples in the other table.
+
